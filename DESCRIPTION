@@ -1,0 +1,9 @@
+Package: fsutils
+Title: File System Utility Functions
+Version: 0.1.0
+Authors@R: person("Ashrith", "Reddy", email = "ashrithssreddy@gmail.com", role = c("aut", "cre"))
+Description: File System Utility Functions
+Depends: R (>= 3.3.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
