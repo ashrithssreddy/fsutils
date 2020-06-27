@@ -1,5 +1,3 @@
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
 ## Overview
 fsutils stands for file-system-utility-functions. 
 
@@ -16,19 +14,19 @@ devtools::install_github("ashrithssreddy/fsutils")
 
 ## Next Steps
 - [ ] File creation or deletion
-	- [ ] Remove any empty folders
-	- [ ] Add a folder called 99_junk (or a different name) into every folder
+	- [ ] Remove any empty folders (fs_rem_empty_folders.R)
+	- [ ] Add a blank-folder 99_junk (or a different name) into every folder (fs_add_junk_folder.R)
 
 - [ ] File formatting
-	- [ ] Remove special characters in each filename
-	- [ ] Replace space with underscore in every file name
+	- [ ] Remove special characters in each filename (fs_rem_special_chars.R)
+	- [ ] Replace space with underscore in every file name (fs_replace_characters.R)
 	
 - [ ] File hierarchy
-	- [ ] Tree based visualization of file system
-	- [ ] Excel based representation of file system
+	- [ ] Tree based visualization of file system (fs_tree_vis.R)
+	- [ ] Excel based representation of file system (fs_excel_rep.R)
  
 - [ ] Other action items
-	- [ ] Check for functionalities already written in different programming languages
+	- [ ] Find and incorporate functionalities already written in different programming languages
 
 ## Usage
 
